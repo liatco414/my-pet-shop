@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Dog Toy",
+        "image": "https://placedog.net/400/300",
+        "description": "Durable rubber toy suitable for medium-sized dogs.",
+        "affiliateLink": "https://www.example.com/dog-toy-affiliate"
+    },
+    {
+        "id": 2,
+        "title": "Cat Scratching Post",
+        "image": "https://placekitten.com/400/300",
+        "description": "High-quality scratching post for cats to keep their claws healthy.",
+        "affiliateLink": "https://www.example.com/cat-scratching-post-affiliate"
+    },
+    {
+        "id": 3,
+        "title": "Fish Tank Cleaner",
+        "image": "https://via.placeholder.com/400x300?text=Fish+Tank+Cleaner",
+        "description": "Easy-to-use fish tank cleaner for a sparkling aquarium.",
+        "affiliateLink": "https://www.example.com/fish-tank-cleaner-affiliate"
+    }
+]

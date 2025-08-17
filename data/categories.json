@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Dogs",
+        "description": "Everything you need for your dog: toys, food, accessories.",
+        "image": "https://placedog.net/400/300"
+    },
+    {
+        "id": 2,
+        "name": "Cats",
+        "description": "All products and food for your feline friends.",
+        "image": "https://placekitten.com/400/300"
+    },
+    {
+        "id": 3,
+        "name": "Fish",
+        "description": "Aquarium supplies and fish food.",
+        "image": "https://via.placeholder.com/400x300?text=Fish"
+    },
+    {
+        "id": 4,
+        "name": "Birds",
+        "description": "Cages, food, and toys for your feathered pets.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 5,
+        "name": "Hamsters",
+        "description": "Cages, food, and toys for your little hamsters.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 6,
+        "name": "Rabbits",
+        "description": "Everything you need for your rabbits: food, cages, and more.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 7,
+        "name": "Guinea Pigs",
+        "description": "All essentials for your guinea pigs.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 8,
+        "name": "Ferrets",
+        "description": "Ferret care products and accessories.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 9,
+        "name": "Turtles",
+        "description": "Aquatic and terrarium supplies for turtles.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 10,
+        "name": "Snakes",
+        "description": "Habitat, food, and care products for snakes.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 11,
+        "name": "Lizards",
+        "description": "All you need for your pet lizards.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 12,
+        "name": "Chameleons",
+        "description": "Specialized care and products for chameleons.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 13,
+        "name": "Frogs",
+        "description": "Terrarium supplies and food for frogs.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 14,
+        "name": "Parrots",
+        "description": "Toys, cages, and food for parrots.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 15,
+        "name": "Canaries",
+        "description": "All you need for canaries and small birds.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 16,
+        "name": "Finches",
+        "description": "Finch food and cage accessories.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 17,
+        "name": "Gerbils",
+        "description": "Care products and food for gerbils.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 18,
+        "name": "Sugar Gliders",
+        "description": "Special care items for sugar gliders.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 19,
+        "name": "Hermit Crabs",
+        "description": "Habitat and food for hermit crabs.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 20,
+        "name": "Exotic Birds",
+        "description": "Supplies for exotic and rare birds.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 21,
+        "name": "Goats",
+        "description": "Feed, shelter, and care for goats.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 22,
+        "name": "Horses",
+        "description": "Everything for your horse: feed, tack, and care.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 23,
+        "name": "Pigs",
+        "description": "Products and food for pigs.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 24,
+        "name": "Chickens",
+        "description": "Coops, feed, and accessories for chickens.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 25,
+        "name": "Ducks",
+        "description": "Care products and food for ducks.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 26,
+        "name": "Squirrels",
+        "description": "Everything for your pet squirrels.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 27,
+        "name": "Flying Squirrels",
+        "description": "Specialized care for flying squirrels.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 28,
+        "name": "Iguanas",
+        "description": "Habitat and food for iguanas.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 29,
+        "name": "Tarantulas",
+        "description": "Care and habitat products for tarantulas.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    },
+    {
+        "id": 30,
+        "name": "Scorpions",
+        "description": "Specialized products for scorpions.",
+        "image": "https://cdn-icons-png.flaticon.com/512/616/616408.png"
+    }
+]
