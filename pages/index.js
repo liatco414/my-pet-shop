@@ -1,6 +1,7 @@
 import React from "react";
 import { useRouter } from "next/router";
 import Home from "../components/Home";
+import NavBar from "../components/NavBar";
 
 export default function Index() {
     const router = useRouter();
@@ -8,6 +9,10 @@ export default function Index() {
     function handleExploreCategories() {
         router.push("/categories");
     }
-
-    return <Home onExploreCategories={handleExploreCategories} />;
+    return (
+        <>
+            <NavBar />
+            <Home onExploreCategories={handleExploreCategories} />
+        </>
+    );
 }

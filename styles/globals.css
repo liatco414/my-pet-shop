@@ -12,3 +12,14 @@
 .fade-up {
     animation: fadeUp 0.8s ease forwards;
 }
+
+/* איפוס מרווחים של ברירת מחדל */
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
